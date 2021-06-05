@@ -11,13 +11,12 @@
   - [Questions](#questions)
 
   ## Description
-  
+  This is a command line application that allows you to generate a team profile html page.
 
   ## Installation
-  
-
-  ## Usage
-  
+  - Clone the repository 
+  - Install Node
+  - Run the server 
 
   ## License
   ![badge](https://img.shields.io/badge/license-MIT-blue)
@@ -35,3 +34,7 @@
   You can find me on GitHub at https://github.com/jacksoncurdo
 
   Email me if you have any questions at jacksoncurdo@gmail.com
+
+  ## Deployed Site
+https://drive.google.com/file/d/1D_xP5x0oLNJuO-BcU0u94VKEazbbvfbI/view?usp=sharing
+
